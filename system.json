@@ -1,0 +1,35 @@
+﻿{
+  "id": "ritualtek",
+  "title": "Ritualtek Core System",
+  "description": "The core system for Ritualtek. Created by Birael",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Birael",
+      "discord": "birael"
+    }
+  ],
+  "compatibility": {
+    "minimum": 13,
+    "verified": "13.346",
+    "maximum": "13"
+  },
+  "esmodules": [
+    "ritualtek.js"
+  ],
+  "styles": [
+    "ritualtek.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "grid": {
+    "distance": 1,
+    "units": "Meter"
+  }
+}
