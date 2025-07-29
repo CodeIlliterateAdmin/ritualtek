@@ -31,5 +31,8 @@
   "grid": {
     "distance": 1,
     "units": "Meter"
-  }
+  },
+  "url": "https://github.com/CodeIlliterateAdmin/ritualtek",
+  "manifest": "https://github.com/CodeIlliterateAdmin/ritualtek/releases/latest/download/system.json",
+  "download": "https://github.com/CodeIlliterateAdmin/ritualtek/releases/download/v0.0.1/system.zip"
 }
